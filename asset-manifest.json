@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Development-Portfolio/static/css/main.1a0179c8.css",
-    "main.js": "/Development-Portfolio/static/js/main.36e7e650.js",
+    "main.js": "/Development-Portfolio/static/js/main.3ee6377e.js",
     "static/js/787.ab59c606.chunk.js": "/Development-Portfolio/static/js/787.ab59c606.chunk.js",
     "static/media/View-From-Here-screenshot.png": "/Development-Portfolio/static/media/View-From-Here-screenshot.01866f199c26a3bfb7ad.png",
     "static/media/job-search-automate-screenshot.png": "/Development-Portfolio/static/media/job-search-automate-screenshot.c39cd924f41539dfd803.png",
@@ -11,11 +11,11 @@
     "static/media/mmm-web-logo.svg": "/Development-Portfolio/static/media/mmm-web-logo.e9e0d9d9d0968a0db43862d96d3ef2a1.svg",
     "index.html": "/Development-Portfolio/index.html",
     "main.1a0179c8.css.map": "/Development-Portfolio/static/css/main.1a0179c8.css.map",
-    "main.36e7e650.js.map": "/Development-Portfolio/static/js/main.36e7e650.js.map",
+    "main.3ee6377e.js.map": "/Development-Portfolio/static/js/main.3ee6377e.js.map",
     "787.ab59c606.chunk.js.map": "/Development-Portfolio/static/js/787.ab59c606.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a0179c8.css",
-    "static/js/main.36e7e650.js"
+    "static/js/main.3ee6377e.js"
   ]
 }
